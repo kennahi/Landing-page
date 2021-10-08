@@ -76,6 +76,7 @@ body {
 .beegest {
     display: flex;
     gap: 40px;
+    justify-content: center;
 }
 
 .anothercontainer {
@@ -128,9 +129,12 @@ body {
 .thor {
     display: flex;
     justify-content: flex-end;
-    padding-right: 220px;
     font-size: 30px;
     font-weight: 800;
+}
+
+.con {
+    
 }
 
 .contain {
